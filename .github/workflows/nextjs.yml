@@ -28,6 +28,24 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: https://placeholder.supabase.co
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: placeholder
+      SUPABASE_SERVICE_ROLE_KEY: placeholder
+      NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY: placeholder
+      CLERK_SECRET_KEY: placeholder
+      CLERK_WEBHOOK_SECRET: placeholder
+      REDIS_URL: redis://localhost:6379
+      ANTHROPIC_API_KEY: placeholder
+      OPENAI_API_KEY: placeholder
+      PINECONE_API_KEY: placeholder
+      PINECONE_INDEX: placeholder
+      STRIPE_SECRET_KEY: placeholder
+      STRIPE_WEBHOOK_SECRET: placeholder
+      NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY: placeholder
+      SENDGRID_API_KEY: placeholder
+      EMAIL_FROM: hello@example.com
+      NEXT_PUBLIC_APP_URL: https://example.com
     steps:
       - name: Checkout
         uses: actions/checkout@v4
