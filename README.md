@@ -2,7 +2,6 @@
 
 > Production-ready Next.js 15 boilerplate — Auth, AI (RAG), Payments, Email, and Rate Limiting wired up and ready to ship.
 
-[![CI](https://github.com/Nyiko-Shabangu/lean-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/Nyiko-Shabangu/lean-stack/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
