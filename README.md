@@ -7,6 +7,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 
+<img width="1903" height="909" alt="image" src="https://github.com/user-attachments/assets/f72e7365-61f8-4cc4-8af2-6602b9b0c740" />
+
 ---
 
 ## What's included
